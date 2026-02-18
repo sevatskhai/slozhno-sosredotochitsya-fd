@@ -91,7 +91,7 @@
 .header__title {
   margin-left: -20px;
   text-shadow: 4px 4px 0 var(--accent-color);
-  font-size: clamp(7.5rem, 0.5rem + 14.5vw, 10rem);
+  font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   color: var(--title-color);
   font-weight: 700;
   line-height: 82.5%;
@@ -222,7 +222,7 @@
 }
 .footer__title {
   text-shadow: 4px 4px 0 var(--accent-color);
-  font-size: clamp(7.5rem, 0.5rem + 14.5vw, 10rem) ;
+  font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem) ;
   color: var(--title-color);
   font-weight: 700;
   line-height: 83%;
@@ -244,7 +244,7 @@
     max-block-size: 117px;
   }
   .header__title {
-    font-size: clamp(7.5rem, 0.5rem + 14.5vw, 10rem) ;
+    font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem) ;
   }
   .question__section__one {
 
@@ -279,7 +279,7 @@
 }
 .header__title {
   margin-left: 0px;
-  font-size: clamp(7.25rem, 7rem + 1vw, 7.5rem);
+  font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
 .header__text {
   max-inline-size: 355px;
@@ -330,7 +330,7 @@
   justify-content: center;
 } 
 .footer__title {
-    font-size: clamp(7.25rem, 7rem + 1vw, 7.5rem);
+    font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   }
   .decorative__element {
     margin: 10px;
