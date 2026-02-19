@@ -7,6 +7,7 @@
   --btn-color:#ff0070;
   --backgroung-image: url(../images/cover-image-dark.png);
 }
+
 .theme_dark .decorative__element {
   display: flex;
 }
